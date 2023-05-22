@@ -57,17 +57,17 @@ transparent = false
 [extra]
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultrices magna
-vitae justo maximus, et efficitur mi pulvinar. Fusce dignissim venenatis
-sapien, quis aliquet orci egestas vitae. Duis turpis dolor, posuere eu aliquet
-a, viverra at nisl. Vivamus ut mauris faucibus, eleifend elit eu, dapibus
-tortor. Praesent ut gravida ipsum, a mollis ante. Donec imperdiet aliquam erat,
-in fringilla metus cursus sit amet.
+Haoyu Li is a last-year undergraduate student who is major in Computer Science and
+Technology in CSU(Central South University, Changsha, China). His researching 
+interestings are major in system area, include operating system, compilers and
+sofeware engineering.
 
-Nullam lobortis euismod semper.  Curabitur ut laoreet sem. Nulla ac enim dolor.
-Quisque consequat lectus diam, feugiat venenatis libero vestibulum sed. Mauris
-magna urna, posuere nec tempus nec, porta at sapien. Ut volutpat condimentum
-volutpat. Vivamus in urna consectetur, pretium tortor vitae, pellentesque
-nulla. Duis efficitur vitae mi sit amet bibendum. Pellentesque eget ultrices
-nulla.
+What's more, he was also a member of CSU Programming Contest Team and participate ICPC Asia
+and CCPC on behalf of his college. In ICPC Asia and CCPC, he won the Silver Medels and Bronze Medels.
+Besides, he is a member of Aurora, the CTF team of CSU and also a cyber-security lab
+in school of computer science.
 
+
+It's my honor to meet everyone here, in my website.  
+
+Good luck to you, my friends.
