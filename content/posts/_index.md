@@ -2,6 +2,6 @@
 title = "Posts"
 template = "section_home.html"
 transparent = true
-render = true
+render = false
 sort_by = "none"
 +++

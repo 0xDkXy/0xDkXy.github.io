@@ -59,7 +59,7 @@ transparent = false
 
 Haoyu Li is a last-year undergraduate student who is major in Computer Science and
 Technology in CSU (Central South University, Changsha, China). His researching 
-interests are major in system area, include operating system, compiler and
+interests are major in system area, including operating system, compiler and
 sofeware engineering.
 
 What's more, he was also a member of CSU Programming Contest Team and participated the programming contests of ICPC Asia
