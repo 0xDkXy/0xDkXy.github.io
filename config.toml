@@ -83,9 +83,9 @@ contact_links = [
 disable_footer = false
 
 # Widgets to show on main page
-show_publications = true
-show_posts = true
-show_projects = true
+show_publications = false
+show_posts = false
+show_projects = false
 
 # Choose your colorscheme among those
 # colorscheme = "default"
