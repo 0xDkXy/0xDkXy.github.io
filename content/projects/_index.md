@@ -1,6 +1,6 @@
 +++
 title = "Projects"
-description = "My description"
+description = ""
 template = "section_home.html"
 transparent = true
 render = true

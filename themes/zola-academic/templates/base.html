@@ -40,9 +40,15 @@
                     </div>
                     <div class="navbar-end">
                         {% for button in config.extra.menu_right %}
+                        {% if button.link is starting_with("/#") %}
                         <a class="navbar-item is-size-6" href="{{ get_url(path=button.link) | safe }}">
                             <strong>{{ button.name }}</strong>
                         </a>
+                        {% else %}
+                        <a class="navbar-item is-size-6" href="{{ button.link | safe }}">
+                            <strong>{{ button.name }}</strong>
+                        </a>
+                        {% endif %}
                         {% endfor %}
                     </div>
                 </div>

@@ -57,17 +57,11 @@ transparent = false
 [extra]
 +++
 
-Haoyu Li is a last-year undergraduate student who is major in Computer Science and
-Technology in CSU (Central South University, Changsha, China). His researching 
-interests are major in system area, including operating system, compiler and
-sofeware engineering.
+I obtain my becholar degree in Computer Science and Technology at CSU (Central
+South University, Changsha, China). My research interests are major in system
+area, including operating systems, computer architecture, and system security.
 
-What's more, he was also a member of CSU Programming Contest Team and participated the programming contests of ICPC Asia
-and CCPC on behalf of his college. In ICPC Asia and CCPC, he won the Silver Medels and Bronze Medels.
-Besides, he is a member of Aurora, the CTF team of CSU and also a cyber-security lab
+What's more, I was also a member of CSU Programming Contest Team and participated the programming contests of ICPC Asia
+and CCPC on behalf of his college. In ICPC Asia and CCPC, I won the Silver Medels and Bronze Medels.
+Besides, I was a member of Aurora, the CTF team of CSU and also a cyber-security lab
 in school of computer science.
-
-
-It's my honor to meet everyone here, in my website.  
-
-Good luck to you, my friends.

@@ -51,7 +51,11 @@
 {% endmacro %}
 
 {% macro project_header(project) %}
+{% if project.path is starting_with("/projects") %}
+<a href="{{ project.extra.link | safe }}">
+{% else %}
 <a href="{{ get_url(path=project.path) | safe }}">
+{% endif %}
     <div class="card is-2">
         {% if project.extra %}
         {% if project.extra.image %}
