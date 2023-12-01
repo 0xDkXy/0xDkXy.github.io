@@ -78,7 +78,7 @@ education = [
 
 # The ways people can contact you
 contact_links = [
-  {icon="fa-envelope", icon_pack="fa", name = "Email me", link="mailto:0xdkxy.pollardlee@gmail.com"},
+  {icon="fa-envelope", icon_pack="fa", name = "Email me", link="mailto:lowell@0xdkxy.com"},
   #{icon = "fa-twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   #{icon = "fa-skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "fa-keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},

@@ -61,7 +61,8 @@ I obtain my becholar degree in Computer Science and Technology at CSU (Central
 South University, Changsha, China). My research interests are major in system
 area, including operating systems, computer architecture, and system security.
 
-What's more, I was also a member of CSU Programming Contest Team and participated the programming contests of ICPC Asia
-and CCPC on behalf of his college. In ICPC Asia and CCPC, I won the Silver Medels and Bronze Medels.
-Besides, I was a member of Aurora, the CTF team of CSU and also a cyber-security lab
-in school of computer science.
+What's more, I was a member of CSU Programming Contest Team and participated the
+programming contests of ICPC Asia and CCPC on behalf of his college. In ICPC
+Asia and CCPC, I won the Silver Medels and Bronze Medels. Besides, I was a
+member of Aurora, the CTF team of CSU and also a cyber-security lab in school of
+computer science.
