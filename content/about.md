@@ -57,7 +57,8 @@ transparent = false
 [extra]
 +++
 
-I obtained my bachelor's degree in Computer Science and Technology at [CSU](https://en.csu.edu.cn/) (Central
+I am an incoming Ph.D. student at Rutgers University, concetrating on Operating System and Computer Architecture. 
+Before that, I obtained my bachelor's degree in Computer Science and Technology at [CSU](https://en.csu.edu.cn/) (Central
 South University, Changsha, China). My research interests are major in system
 area, including operating systems, computer architecture, system security and intersection of them.
 
