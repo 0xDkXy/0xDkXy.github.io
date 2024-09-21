@@ -3,7 +3,7 @@ theme = "zola-academic"
 
 
 # The title of the site
-title = "Lowell's Homepage"
+title = "Haoyu Li"
 
 # The URL the site will be built for
 base_url = "/"
@@ -13,7 +13,7 @@ compile_sass = true
 
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+#highlight_code = false
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
@@ -22,13 +22,13 @@ build_search_index = true
 # Put all your custom variables here
 
 # Author of the page
-author = "Li Haoyu"
+author = "Haoyu Li"
 
 # Role of the author
 role = "A Hacker & System Guy"
 
 # Organizations of the author
-organizations = [ { name = "Central South University, Changsha" } ]
+organizations = [ { name = "Rutgers University-New Brunswick" } ]
 
 # Whether the navbar should be screen wide or page wide
 wide_navbar = false
@@ -66,13 +66,13 @@ social_icons = [
 # ]
 interests = [
     { label = "Operating Systems" },
-    { label = "Computer Architecture" },
-    { label = "System Security" }
+    { label = "Computer Architecture" }
 ]
 
 # Your diplomas
 education = [
 #{course = "PhD in something", institution = "Somewhere, city, country", year = 2020},
+{course = "Ph.D. in Computer Schience", institution = "Rutgers University-New Brunswick, NJ", year = "2024-Present"},
 {course = "B.Eng in Computer Science and Technology", institution = "Central South University, Changsha, China", year = "2019-2023"},
 ]
 
@@ -92,7 +92,7 @@ disable_footer = false
 # Widgets to show on main page
 show_publications = false
 show_posts = false
-show_projects = true
+show_projects = false
 
 # Choose your colorscheme among those
 # colorscheme = "default"
