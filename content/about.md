@@ -58,7 +58,7 @@ transparent = false
 +++
 
 I am a first-year CS Ph.D. student at Rutgers University working with [Prof.
-Sudarsun Kannan](https://people.cs.rutgers.edu/~sk2113/), concetrating on
+Sudarsun Kannan](https://people.cs.rutgers.edu/~sk2113/), concentrating on
 Operating System and Computer Architecture. Before that, I obtained my
 bachelor's degree in Computer Science and Technology at
 [CSU](https://en.csu.edu.cn/) (Central South University, Changsha, China). My

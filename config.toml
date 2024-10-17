@@ -35,7 +35,7 @@ wide_navbar = false
 
 # Url of your profile pic
 # You should put your portrait in the static directory.
-portrait = "/static/img/photo.jpg"
+portrait = "/static/img/himmel-1-1.png"
 
 # The links you want to put on the left of the navbar
 menu_left = [
@@ -44,7 +44,7 @@ menu_left = [
 
 # The links you want to put on the right of the navbar
 menu_right = [
-    { name = "Projects", link = "/#projects" },
+    #{ name = "Projects", link = "/#projects" },
     { name = "Blog", link = "https://0xdkxy.github.io/blog/" },
     #{ name = "Posts", link = "/#posts" },
     #{ name = "Publications", link = "/#publications" },
