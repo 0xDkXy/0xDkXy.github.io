@@ -72,8 +72,8 @@ interests = [
 # Your diplomas
 education = [
 #{course = "PhD in something", institution = "Somewhere, city, country", year = 2020},
-{course = "Ph.D. in Computer Schience", institution = "Rutgers University-New Brunswick, NJ", year = "2024-Present"},
-{course = "B.Eng in Computer Science and Technology", institution = "Central South University, Changsha, China", year = "2019-2023"},
+{course = "Ph.D. in Computer Sciences", institution = "Rutgers University-New Brunswick, NJ, USA", year = "2024-Present"},
+{course = "B.Eng in Computer Sciences and Technology", institution = "Central South University, Changsha, China", year = "2019-2023"},
 ]
 
 # The ways people can contact you
