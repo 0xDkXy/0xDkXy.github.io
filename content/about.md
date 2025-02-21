@@ -71,4 +71,4 @@ I was a member of CSU Programming Contest Team and participated the
 programming contests of ICPC Asia and CCPC on behalf of my college. In ICPC
 Asia and CCPC, I won the Silver Medels and Bronze Medels. 
 
-Get my [CV here](https://github.com/0xDkXy/0xDkXY.github.io/static/resume.pdf?raw=true).
+Get my [CV here](https://github.com/0xDkXy/0xDkXy.github.io/blob/master/static/resume.pdf?raw=true).
