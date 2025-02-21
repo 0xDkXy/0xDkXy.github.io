@@ -48,8 +48,8 @@ menu_right = [
     #{ name = "Blog", link = "https://0xdkxy.github.io/blog/" },
     #{ name = "Posts", link = "/#posts" },
     #{ name = "Publications", link = "/#publications" },
+    { name = "Resume", link = "/static/resume.pdf?raw=true" },
     { name = "Contact", link = "/#contact" }
-    { name = "Resume", link = "/static/resume.pdf?raw=true" }
 ]
 
 # Social icons that will appear under your profile box

@@ -57,6 +57,8 @@ transparent = false
 [extra]
 +++
 
+**Actively seeking a Summer 2025 internship in storage and memory.**
+
 I am a first-year CS Ph.D. student at Rutgers University working with [Prof.
 Sudarsun Kannan](https://people.cs.rutgers.edu/~sk2113/), concentrating on
 Operating System and Computer Architecture. Before that, I obtained my
@@ -68,3 +70,5 @@ computer architecture, and intersection of them.
 I was a member of CSU Programming Contest Team and participated the
 programming contests of ICPC Asia and CCPC on behalf of my college. In ICPC
 Asia and CCPC, I won the Silver Medels and Bronze Medels. 
+
+Get my [CV here](https://github.com/0xDkXy/0xDkXY.github.io/static/resume.pdf?raw=true).
